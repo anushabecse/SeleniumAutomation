@@ -1,0 +1,157 @@
+2022-12-05 01:32:01,889 - Nop Com Application module -INFO - launching application
+2022-12-05 01:32:02,998 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-05 01:32:03,252 - Nop Com Application module -INFO - clear the username field
+2022-12-05 01:32:03,252 - Nop Com Application module -WARN - clear the username field
+2022-12-05 01:32:03,252 - Nop Com Application module -ERROR - clear the username field
+2022-12-05 01:32:03,326 - Nop Com Application module -INFO - enter email id: admin@yourstore.com
+2022-12-05 01:32:03,441 - Nop Com Application module -INFO - clear the password field
+2022-12-05 01:32:03,517 - Nop Com Application module -INFO - enter password id: admin
+2022-12-05 01:32:03,588 - Nop Com Application module -INFO - Click on Login button
+2022-12-05 01:32:11,763 - Nop Com Application module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-05 01:32:15,771 - Nop Com Application module -INFO - Click on Customer Menu
+2022-12-05 01:32:15,872 - Nop Com Application module -INFO - Click on Customer Menu items
+2022-12-05 01:32:32,440 - Nop Com Application module -INFO - after click on Customer menu item, application title: Customers / nopCommerce administration
+2022-12-05 01:32:36,440 - Nop Com Application module -INFO - Click on Logout
+2022-12-05 01:32:46,872 - Nop Com Application module -INFO - closing application
+2022-12-05 02:24:36,261 - Nop Com Application module -INFO - launching application
+2022-12-05 02:24:37,398 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-05 02:24:40,581 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-05 02:24:40,596 - Nop Com Application module -INFO - enter userName
+2022-12-05 02:24:40,800 - Nop Com Application module -INFO - enter password
+2022-12-05 02:24:40,960 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-05 02:24:41,030 - Nop Com Application module -INFO - click on login button
+2022-12-05 02:24:47,983 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:24:53,122 - Nop Com Application module -INFO - closing application
+2022-12-06 21:10:17,526 - Nop Com Application module -INFO - launching application
+2022-12-06 21:10:18,623 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-06 21:10:18,786 - Nop Com Application module -INFO - Navigate to customer Page
+2022-12-06 21:10:18,786 - Nop Com Application module -INFO - Click on Customers Menu
+2022-12-06 21:10:21,802 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-06 21:10:21,822 - Nop Com Application module -INFO - enter userName
+2022-12-06 21:10:21,980 - Nop Com Application module -INFO - enter password
+2022-12-06 21:10:22,106 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-06 21:10:22,180 - Nop Com Application module -INFO - click on login button
+2022-12-06 21:10:28,746 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 21:10:36,985 - Nop Com Application module -INFO - closing application
+2022-12-06 21:12:19,730 - Nop Com Application module -INFO - launching application
+2022-12-06 21:12:20,775 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-06 21:12:20,959 - Nop Com Application module -INFO - Navigate to customer Page
+2022-12-06 21:12:20,959 - Nop Com Application module -INFO - Click on Customers Menu
+2022-12-06 21:12:23,975 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-06 21:12:23,996 - Nop Com Application module -INFO - enter userName
+2022-12-06 21:12:24,150 - Nop Com Application module -INFO - enter password
+2022-12-06 21:12:24,284 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-06 21:12:24,359 - Nop Com Application module -INFO - click on login button
+2022-12-06 21:12:31,923 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 21:12:44,115 - Nop Com Application module -INFO - closing application
+2022-12-06 21:18:00,464 - Nop Com Application module -INFO - launching application
+2022-12-06 21:18:01,520 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-06 21:18:01,680 - Nop Com Application module -INFO - Navigate to customer Page
+2022-12-06 21:18:01,680 - Nop Com Application module -INFO - Click on Customers Menu
+2022-12-06 21:18:04,696 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-06 21:18:04,713 - Nop Com Application module -INFO - enter userName
+2022-12-06 21:18:04,876 - Nop Com Application module -INFO - enter password
+2022-12-06 21:18:05,013 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-06 21:18:05,071 - Nop Com Application module -INFO - click on login button
+2022-12-06 21:18:11,961 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-06 21:18:24,242 - Nop Com Application module -INFO - closing application
+2022-12-07 00:49:54,209 - Nop Com Application module -INFO - launching application
+2022-12-07 00:49:55,243 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 00:49:58,428 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-07 00:49:58,438 - Nop Com Application module -INFO - enter userName
+2022-12-07 00:49:58,606 - Nop Com Application module -INFO - enter password
+2022-12-07 00:49:58,735 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-07 00:49:58,801 - Nop Com Application module -INFO - click on login button
+2022-12-07 00:50:05,298 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 00:50:17,602 - Nop Com Application module -INFO - closing application
+2022-12-07 00:53:39,646 - Nop Com Application module -INFO - launching application
+2022-12-07 00:53:40,731 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 00:53:43,946 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-07 00:53:43,957 - Nop Com Application module -INFO - enter userName
+2022-12-07 00:53:44,121 - Nop Com Application module -INFO - enter password
+2022-12-07 00:53:44,240 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-07 00:53:44,298 - Nop Com Application module -INFO - click on login button
+2022-12-07 00:53:50,039 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 00:54:03,638 - Nop Com Application module -INFO - closing application
+2022-12-07 00:58:56,307 - Nop Com Application module -INFO - launching application
+2022-12-07 00:58:57,364 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 00:59:00,557 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-07 00:59:00,562 - Nop Com Application module -INFO - enter userName
+2022-12-07 00:59:00,731 - Nop Com Application module -INFO - enter password
+2022-12-07 00:59:00,861 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-07 00:59:00,922 - Nop Com Application module -INFO - click on login button
+2022-12-07 00:59:07,376 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 00:59:19,501 - Nop Com Application module -INFO - closing application
+2022-12-07 01:00:15,739 - Nop Com Application module -INFO - launching application
+2022-12-07 01:00:16,820 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 01:00:16,974 - Nop Com Application module -INFO - Navigate to customer Page
+2022-12-07 01:00:16,974 - Nop Com Application module -INFO - Click on Customers Menu
+2022-12-07 01:00:20,057 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-07 01:00:20,072 - Nop Com Application module -INFO - enter userName
+2022-12-07 01:00:20,232 - Nop Com Application module -INFO - enter password
+2022-12-07 01:00:20,357 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-07 01:00:20,412 - Nop Com Application module -INFO - click on login button
+2022-12-07 01:00:26,510 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 01:00:38,761 - Nop Com Application module -INFO - closing application
+2022-12-07 01:05:21,667 - Nop Com Application module -INFO - launching application
+2022-12-07 01:05:22,721 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 01:05:25,949 - Nop Com Application module -INFO - before login application title should beYour store. Login
+2022-12-07 01:05:25,962 - Nop Com Application module -INFO - enter userName
+2022-12-07 01:05:26,122 - Nop Com Application module -INFO - enter password
+2022-12-07 01:05:26,250 - Nop Com Application module -INFO - click on radio checkbox
+2022-12-07 01:05:26,316 - Nop Com Application module -INFO - click on login button
+2022-12-07 01:05:32,770 - Nop Com Application module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 01:05:35,782 - Nop Com Application module -INFO - Navigate to customer Page
+2022-12-07 01:05:35,782 - Nop Com Application module -INFO - Click on Customers Menu
+2022-12-07 01:05:35,931 - Nop Com Application module -INFO - Click on Customer link
+2022-12-07 01:05:40,529 - Nop Com Application module -INFO - Enter details in search page
+2022-12-07 01:05:52,128 - Nop Com Application module -INFO - closing application
+2022-12-07 01:42:21,053 - Nop Com Application module -INFO - launching application
+2022-12-07 01:42:22,188 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 01:42:25,319 - Nop Com Application module -INFO - enter email details: Rupal@gmail.com
+2022-12-07 01:42:35,680 - Nop Com Application module -INFO - enter email details: Anusha1@gmail.com
+2022-12-07 01:42:45,889 - Nop Com Application module -INFO - enter email details: Pratyusha1@google.com
+2022-12-07 01:42:56,182 - Nop Com Application module -INFO - enter email details: Surya1@yahoo.com
+2022-12-07 01:43:24,658 - Nop Com Application module -INFO - closing application
+2022-12-07 01:45:59,381 - Nop Com Application module -INFO - launching application
+2022-12-07 01:46:00,440 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-07 01:46:03,617 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-07 01:46:13,433 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-07 01:46:23,179 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-07 01:46:35,085 - Nop Com Application module -INFO - closing application
+2022-12-08 02:52:43,032 - Nop Com Application module -INFO - launching application
+2022-12-08 02:52:44,254 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-08 02:52:47,473 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 02:52:57,899 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 02:53:08,003 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 02:53:36,068 - Nop Com Application module -INFO - closing application
+2022-12-08 03:00:12,214 - Nop Com Application module -INFO - launching application
+2022-12-08 03:00:13,774 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-08 03:00:16,997 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 03:00:27,454 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 03:00:37,934 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 03:00:50,452 - Nop Com Application module -INFO - closing application
+2022-12-08 03:06:04,270 - Nop Com Application module -INFO - launching application
+2022-12-08 03:06:05,578 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-08 03:06:08,767 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 03:06:19,356 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 03:06:29,307 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 03:06:57,467 - Nop Com Application module -INFO - closing application
+2022-12-08 03:07:16,788 - Nop Com Application module -INFO - launching application
+2022-12-08 03:07:17,915 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-08 03:07:21,100 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 03:07:31,005 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 03:07:40,809 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 03:08:08,889 - Nop Com Application module -INFO - closing application
+2022-12-08 23:54:50,132 - Nop Com Application module -INFO - launching application
+2022-12-08 23:54:52,243 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-08 23:54:55,400 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 23:55:05,818 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 23:55:15,533 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 23:55:43,400 - Nop Com Application module -INFO - closing application
+2022-12-09 03:29:46,037 - Nop Com Application module -INFO - launching application
+2022-12-09 03:29:49,902 - Nop Com Application module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login
+2022-12-09 03:29:53,094 - Nop Com Application module -INFO - enter email details: Anusha@gmail.com
+2022-12-09 03:30:03,622 - Nop Com Application module -INFO - enter email details: Pratyusha@google.com
+2022-12-09 03:30:13,325 - Nop Com Application module -INFO - enter email details: Surya@yahoo.com
+2022-12-09 03:30:25,102 - Nop Com Application module -INFO - closing application
