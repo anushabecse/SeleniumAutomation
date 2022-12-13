@@ -29,7 +29,7 @@
 
                         <suiteXmlFiles>
                             <!-- <suiteXmlFile>testng_smoke.xml</suiteXmlFile> <suiteXmlFile>testng_sanity.xml</suiteXmlFile> -->
-                           <!--   <suiteXmlFile>testng_crossBrowserTest.xml</suiteXmlFile>-->
+                            <suiteXmlFile>testng_crossBrowserTest.xml</suiteXmlFile>
                             <suiteXmlFile>DataProvider_testng.xml</suiteXmlFile>
 
                         </suiteXmlFiles>
